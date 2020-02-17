@@ -1,0 +1,21 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Aufgabenstellung und Versuchsziel}{3}{section.1}
+\contentsline {section}{\numberline {2}Theoretische Grundlagen}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}$\beta $-Umwandlung}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Umwandlung von $^{137}_{\ 55}$Cs und $^{85}_{36}$Kr}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Fermi-Plot}{6}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Energieverlust beim Durchdringen von Materie}{6}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Bethe-Bloch-Gleichung}{7}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.2}Landau-Modell}{7}{subsubsection.2.4.2}
+\contentsline {subsection}{\numberline {2.5}Detektion von $\beta $-Strahlung}{7}{subsection.2.5}
+\contentsline {section}{\numberline {3}Durchf\IeC {\"u}hrung}{9}{section.3}
+\contentsline {section}{\numberline {4}Auswertung}{10}{section.4}
+\contentsline {subsection}{\numberline {4.1}\(\gamma \)-Untergrund von \(^{137}_{\ 55}\mathrm {Cs}\) und \(^{85}_{36}\mathrm {Kr}\)}{16}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}\(\beta ^-\)-Spektren von \(^{137}_{\ 55}\mathrm {Cs}\) und \(^{85}_{36}\mathrm {Kr}\)}{16}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Aufl\IeC {\"o}sungsverm\IeC {\"o}gen des Spektrometers}{18}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Konversionskoeffizienten von \(^{137}_{\ 55}\mathrm {Cs}\)}{18}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Fermi-Plot und Grenzenergien}{19}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Wechselwirkung von \(\beta \)-Strahlung mit Materie}{22}{subsection.4.6}
+\contentsline {subsubsection}{\numberline {4.6.1}Energieverlust der Strahlung beim Durchgang durch Aluminium}{22}{subsubsection.4.6.1}
+\contentsline {subsubsection}{\numberline {4.6.2}Absorption von \(\beta ^-\)-Strahlung}{25}{subsubsection.4.6.2}
+\contentsline {subsubsection}{\numberline {4.6.3}Spektrum von \(^{85}_{36}\mathrm {Kr}\) hinter einer Bleiabschirmung}{27}{subsubsection.4.6.3}
